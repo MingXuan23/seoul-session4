@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\session_4(2.0)\session_4(2.0)\bin\Debug\session_4(2.0).exe.config
+C:\Users\User\source\repos\session_4(2.0)\session_4(2.0)\bin\Debug\session_4(2.0).exe
+C:\Users\User\source\repos\session_4(2.0)\session_4(2.0)\bin\Debug\session_4(2.0).pdb
+C:\Users\User\source\repos\session_4(2.0)\session_4(2.0)\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\session_4(2.0)\session_4(2.0)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\session_4(2.0)\session_4(2.0)\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\session_4(2.0)\session_4(2.0)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\session_4(2.0)\session_4(2.0)\obj\Debug\session_4(2.0).csproj.AssemblyReference.cache
+C:\Users\User\source\repos\session_4(2.0)\session_4(2.0)\obj\Debug\session_4(2.0).csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\session_4(2.0)\session_4(2.0)\obj\Debug\session_4_2._0_.Form1.resources
+C:\Users\User\source\repos\session_4(2.0)\session_4(2.0)\obj\Debug\session_4_2._0_.Properties.Resources.resources
+C:\Users\User\source\repos\session_4(2.0)\session_4(2.0)\obj\Debug\session_4(2.0).csproj.GenerateResource.cache
+C:\Users\User\source\repos\session_4(2.0)\session_4(2.0)\obj\Debug\session_4(2.0).csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\session_4(2.0)\session_4(2.0)\obj\Debug\session_4(2.0).csproj.CopyComplete
+C:\Users\User\source\repos\session_4(2.0)\session_4(2.0)\obj\Debug\session_4(2.0).exe
+C:\Users\User\source\repos\session_4(2.0)\session_4(2.0)\obj\Debug\session_4(2.0).pdb
+C:\Users\User\source\repos\session_4(2.0)\session_4(2.0)\obj\Debug\session_4_2._0_.Advanced.resources
